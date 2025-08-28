@@ -1,4 +1,4 @@
-🐦 Simple Social Network – Pajarito
+#🐦 Simple Social Network – Pajarito
 
 A simple social network project built with HTML, CSS, and JavaScript that interacts with the JSONPlaceholder API
 .
